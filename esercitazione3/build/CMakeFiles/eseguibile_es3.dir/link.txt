@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/eseguibile_es3.dir/link.d CMakeFiles/eseguibile_es3.dir/main.cpp.o -o eseguibile_es3
