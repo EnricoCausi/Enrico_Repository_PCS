@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/eseguibilev1.dir/link.d CMakeFiles/eseguibilev1.dir/main.cpp.o CMakeFiles/eseguibilev1.dir/timecounter.cpp.o -o eseguibilev1

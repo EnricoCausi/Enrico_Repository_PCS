@@ -1,7 +1,0 @@
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/eseguibilev1.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/test_bubblesort.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/test_insertionsort.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/test_selectionsort.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/test.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/edit_cache.dir
-/home/pcsdocker/Data/Enrico_Repository_PCS/esercitazione4/build/CMakeFiles/rebuild_cache.dir
